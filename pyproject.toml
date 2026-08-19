@@ -8,7 +8,7 @@ version = "0.0.1"
 description = "Official Prori SDK for Python"
 readme = "README.md"
 requires-python = ">=3.9"
-license = "MIT"
+license = { text = "MIT" }
 authors = [{ name = "Prori", email = "hello@prori.ai" }]
 keywords = ["prori", "prori.ai", "distribution", "campaigns", "usdc", "sdk"]
 classifiers = [
