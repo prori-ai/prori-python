@@ -1,0 +1,15 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "prori-ai"
+version = "0.0.1"
+description = "Official Prori SDK for Python (alias of prori)"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Prori", email = "hello@prori.ai" }]
+keywords = ["prori", "prori.ai", "sdk"]
+dependencies = ["prori==0.0.1"]
+urls = { Homepage = "https://prori.ai", Repository = "https://github.com/prori-ai/prori-python" }
