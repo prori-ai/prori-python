@@ -1,6 +1,8 @@
 # prori
 
-Official Python SDK for [Prori](https://prori.ai).
+Official Python SDK for **[Prori](https://prori.ai)** — from studio to growth.
+
+Prori (`prori.ai`) brings creative production (video, images, audio, 3D, and playable games), a browser & desktop agent, and creator-led brand growth together in one workspace.
 
 ```bash
 pip install prori
@@ -13,8 +15,7 @@ feed = get_daily_feed(days=3)
 print(HOMEPAGE, feed["days"][0]["date"])
 ```
 
-This package reserves the `prori` name on PyPI. The client surface will grow as the public API ships.
-
-- Site: https://prori.ai
-- Org: https://github.com/prori-ai
+- Website: https://prori.ai
+- GitHub: https://github.com/prori-ai
+- X: https://x.com/ProriAI
 - Issues: https://github.com/prori-ai/prori-python/issues
