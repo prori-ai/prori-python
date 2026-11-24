@@ -5,12 +5,12 @@ build-backend = "hatchling.build"
 [project]
 name = "prori"
 version = "0.0.1"
-description = "Official Prori SDK for Python"
+description = "Official Python SDK for Prori (prori.ai) — creative studios, agent workflows, product directory, and creator growth."
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
 authors = [{ name = "Prori", email = "hello@prori.ai" }]
-keywords = ["prori", "prori.ai", "distribution", "campaigns", "usdc", "sdk"]
+keywords = ["prori", "prori.ai", "sdk", "product-discovery", "creator-growth", "ai-agent"]
 classifiers = [
   "Development Status :: 2 - Pre-Alpha",
   "Intended Audience :: Developers",
